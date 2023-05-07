@@ -1,5 +1,5 @@
 
-import './App.css';
+import './Global.css';
 
 function App() {
   return (
